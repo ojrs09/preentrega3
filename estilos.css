@@ -1,0 +1,56 @@
+body {
+    background-image: url(./multimedia/4028065.jpg); 
+}
+
+.login {
+    width: 400px;
+    height: auto;
+    padding: 40px;
+    background-color:aquamarine;
+    border-radius: 25px;
+    margin: 20px;
+}
+
+h1{
+    padding-left: 380px;
+    margin-top: 10px;
+    color:black;
+    background-color: aquamarine;
+}
+
+
+h2{
+    padding-left: 380px;
+    margin-top: 10px;
+    color:black;
+    background-color: aquamarine;
+}
+
+.cardEstudiante{
+    width:500px;
+}
+
+.fakeAncla{
+    text-decoration: underline;
+    color: #0d6efd;
+}
+
+p {
+    margin-left: 30%;
+}
+
+.agregar {
+    background-color:aquamarine;
+    color:black;
+    border-radius: 25px;
+    width: 100px;
+    height: 30px;
+}
+
+.ver {
+    background-color:aquamarine;
+    color:black;
+    border-radius: 25px;
+    width: 100px;
+    height: 30px;
+}
